@@ -1,2 +1,2 @@
-### Simple react calculator
+# Simple react calculator
 
